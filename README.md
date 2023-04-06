@@ -1,5 +1,11 @@
 $ npm install
 
+$npm i dotenv
+
+.env file
+PORT=3000
+DEV_DB = connection_string
+
 ..............................................
 API to add products to the database
 URL [POST]: /products/create
