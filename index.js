@@ -1,7 +1,7 @@
 import * as dotenv from "dotenv";
 dotenv.config();
 import db from "./config/mongoose.js";
-import router from "./routes/api/v1/index.js";
+import router from "./routes/index.js";
 
 import express from "express";
 const app = express();

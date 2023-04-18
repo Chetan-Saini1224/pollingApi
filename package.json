@@ -1,14 +1,19 @@
 {
-  "name": "ecomm-api",
   "type": "module",
+  "name": "polling-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "taking the reaction on question",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "chetan saini",
+  "repository": {},
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetan-Saini1224/Ecommerece_api/issues"
+  },
+  "homepage": "https://github.com/Chetan-Saini1224/Ecommerece_api#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
