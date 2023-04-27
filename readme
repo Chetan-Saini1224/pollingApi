@@ -1,2 +1,4 @@
 npm install // to install all dependences
 npm start // to run the project
+
+referes routes to consume api list
